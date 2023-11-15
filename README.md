@@ -59,7 +59,8 @@ i) # maximum of marks using the list method sort.
 ii) # maximum marks using the list method max().
 ![Screenshot (87)](https://github.com/surothaaman/FindMaximum/assets/133313653/6468ebea-629a-4659-8c7d-b21d2acdfdc1)
 iii) # maximum marks without using builtin functions.
-![Uploading Screenshot (88).png…]()
+![Screenshot (88)](https://github.com/surothaaman/FindMaximum/assets/133313653/f087ee34-1bb1-4a73-b2ed-45e4c4894696)
+
 
 
 
